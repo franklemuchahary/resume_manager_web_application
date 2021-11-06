@@ -14,7 +14,7 @@ This is a portal which will be used by over 5000 students on a daily basis to ap
 <p align="center"> <b> Screenshots from the Application: </b></p>
 
 ****************
-**Student Portal**
+<p align="center"> <b> Student Portal </b></p>
 <p align="center">
   <img alt="Light" src="application_screenshots/student_4.png" width="100%", height="450">
 &nbsp; &nbsp; &nbsp; &nbsp;
@@ -37,10 +37,12 @@ This is a portal which will be used by over 5000 students on a daily basis to ap
   <img alt="Light" src="application_screenshots/student_7.png" width="100%", height="450">
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Dark" src="application_screenshots/student_8.png" width="100%", height="450">
+&nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp;
 </p>
 
 ****************
-**Recruiter Portal**
+<p align="center"> <b> Recruiter Portal </b></p>
 
 <p align="center">
   <img alt="Light" src="application_screenshots/recruiter_1.png" width="100%", height="450">
@@ -51,10 +53,11 @@ This is a portal which will be used by over 5000 students on a daily basis to ap
 <p align="left">
   <img alt="Light" src="application_screenshots/recruiter_3.png" width="100%", height="450">
 &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp;
 </p>
 
 ****************
-**Admin Portal**
+<p align="center"> <b> Admin Portal </b></p>
 
 <p align="center">
   <img alt="Light" src="application_screenshots/admin_1.png" width="100%", height="450">
