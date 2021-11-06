@@ -16,40 +16,40 @@ This is a portal which will be used by over 5000 students on a daily basis to ap
 ****************
 **Student Portal**
 <p align="center">
-  <img alt="Light" src="application_screenshots/student_4.png" width="47%", height="250">
+  <img alt="Light" src="application_screenshots/student_4.png" width="100%", height="450">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="application_screenshots/student_5.png" width="47%", height="250">
+  <img alt="Dark" src="application_screenshots/student_5.png" width="100%", height="450">
 </p>
 
 <p align="center">
-  <img alt="Light" src="application_screenshots/student_6.png" width="47%", height="250">
+  <img alt="Light" src="application_screenshots/student_6.png" width="100%", height="450">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="application_screenshots/student_1.png" width="47%", height="250">
+  <img alt="Dark" src="application_screenshots/student_1.png" width="100%", height="450">
 </p>
 
 <p align="center">
-  <img alt="Light" src="application_screenshots/student_2.png" width="47%", height="250">
+  <img alt="Light" src="application_screenshots/student_2.png" width="100%", height="450">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="application_screenshots/student_3.png" width="47%", height="250">
+  <img alt="Dark" src="application_screenshots/student_3.png" width="100%", height="450">
 </p>
 
 <p align="center">
-  <img alt="Light" src="application_screenshots/student_7.png" width="47%", height="250">
+  <img alt="Light" src="application_screenshots/student_7.png" width="100%", height="450">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="application_screenshots/student_8.png" width="47%", height="250">
+  <img alt="Dark" src="application_screenshots/student_8.png" width="100%", height="450">
 </p>
 
 ****************
 **Recruiter Portal**
 
 <p align="center">
-  <img alt="Light" src="application_screenshots/recruiter_1.png" width="47%", height="250">
+  <img alt="Light" src="application_screenshots/recruiter_1.png" width="100%", height="450">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="application_screenshots/recruiter_2.png" width="47%", height="250">
+  <img alt="Dark" src="application_screenshots/recruiter_2.png" width="100%", height="450">
 </p>
 
 <p align="left">
-  <img alt="Light" src="application_screenshots/recruiter_3.png" width="47%", height="250">
+  <img alt="Light" src="application_screenshots/recruiter_3.png" width="100%", height="450">
 &nbsp; &nbsp; &nbsp; &nbsp;
 </p>
 
@@ -57,19 +57,19 @@ This is a portal which will be used by over 5000 students on a daily basis to ap
 **Admin Portal**
 
 <p align="center">
-  <img alt="Light" src="application_screenshots/admin_1.png" width="47%", height="250">
+  <img alt="Light" src="application_screenshots/admin_1.png" width="100%", height="450">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="application_screenshots/admin_2.png" width="47%", height="250">
+  <img alt="Dark" src="application_screenshots/admin_2.png" width="100%", height="450">
 </p>
 
 <p align="center">
-  <img alt="Light" src="application_screenshots/admin_3.png" width="47%", height="250">
+  <img alt="Light" src="application_screenshots/admin_3.png" width="100%", height="450">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="application_screenshots/admin_4.png" width="47%", height="250">
+  <img alt="Dark" src="application_screenshots/admin_4.png" width="100%", height="450">
 </p>
 
 <p align="center">
-  <img alt="Light" src="application_screenshots/admin_5.png" width="47%", height="250">
+  <img alt="Light" src="application_screenshots/admin_5.png" width="100%", height="450">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="application_screenshots/admin_6.png" width="47%", height="250">
+  <img alt="Dark" src="application_screenshots/admin_6.png" width="100%", height="450">
 </p>
